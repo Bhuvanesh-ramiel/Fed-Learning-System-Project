@@ -4,7 +4,7 @@ A privacy-preserving Federated Learning framework that enables multiple hospital
 
 ---
 
-##Features
+## Features
 
 -Privacy-preserving collaborative model training using Federated Learning
 -Local training without sharing patient records
@@ -17,7 +17,7 @@ A privacy-preserving Federated Learning framework that enables multiple hospital
 
 ---
 
-##Workflow
+## Workflow
 
 ```
 Local Hospital Dataset
@@ -38,7 +38,7 @@ Real-Time Dashboard Monitoring
 ```
 ---
 
-##Tech Stack
+## Tech Stack
 
 -Python
 -PyTorch
@@ -51,7 +51,7 @@ Real-Time Dashboard Monitoring
 
 ---
 
-##Key Components
+## Key Components
 -Heart Disease Dataset
 -Local Hospital Training
 -Client-Side Dataset Auditing
@@ -62,7 +62,7 @@ Real-Time Dashboard Monitoring
 -Interactive Monitoring Dashboard
 
 
-##Project Structure
+## Project Structure
 
 ```
 Fed Health/
@@ -79,7 +79,7 @@ Fed Health/
 ```
 ---
 
-##Installation
+## Installation
 
 ```bash
 git clone https://github.com/yourusername/Vertex.git
@@ -107,7 +107,7 @@ streamlit run hospital_app.py
 ```
 ---
 
-##Applications
+## Applications
 
 -Privacy-Preserving Healthcare AI
 -Multi-Hospital Collaborative Learning
@@ -118,7 +118,7 @@ streamlit run hospital_app.py
 
 ---
 
-##Future Enhancements
+## Future Enhancements
 
 -Differential Privacy integration
 -Secure Aggregation and Homomorphic Encryption
@@ -128,13 +128,13 @@ streamlit run hospital_app.py
 -Cloud-based federated learning infrastructure
 
 ---
-Contributors
+## Contributors
 
 **Bhuvanesh**
 - Final Year B.Tech Project – Artificial Intelligence and Data Science using Python
 
 ---
 
-##License
+## License
 
 This project is developed for academic and research purposes.

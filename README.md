@@ -6,14 +6,14 @@ A privacy-preserving Federated Learning framework that enables multiple hospital
 
 ## Features
 
--Privacy-preserving collaborative model training using Federated Learning
--Local training without sharing patient records
--Client-side dataset integrity auditing before model participation
--Server-side noisy client detection using Geometric Median and Cosine Similarity
--Robust aggregation to reduce the impact of malicious or unreliable clients
--Real-time Streamlit dashboard for monitoring training progress and client reliability
--Security alerts and node health visualization
--Supports both simulation-based and manual multi-hospital federated environments
+- Privacy-preserving collaborative model training using Federated Learning
+- Local training without sharing patient records
+- Client-side dataset integrity auditing before model participation
+- Server-side noisy client detection using Geometric Median and Cosine Similarity
+- Robust aggregation to reduce the impact of malicious or unreliable clients
+- Real-time Streamlit dashboard for monitoring training progress and client reliability
+- Security alerts and node health visualization
+- Supports both simulation-based and manual multi-hospital federated environments
 
 ---
 
@@ -40,26 +40,26 @@ Real-Time Dashboard Monitoring
 
 ## Tech Stack
 
--Python
--PyTorch
--Flower (Federated Learning)
--Streamlit
--Plotly
--Pandas
--NumPy
--Scikit-learn
+- Python
+- PyTorch
+- Flower (Federated Learning)
+- Streamlit
+- Plotly
+- Pandas
+- NumPy
+- Scikit-learn
 
 ---
 
 ## Key Components
--Heart Disease Dataset
--Local Hospital Training
--Client-Side Dataset Auditing
--Geometric Median Aggregation
--Cosine Similarity-Based Gradient Analysis
--Noisy Client Detection
--Global Model Aggregation
--Interactive Monitoring Dashboard
+- Heart Disease Dataset
+- Local Hospital Training
+- Client-Side Dataset Auditing
+- Geometric Median Aggregation
+- Cosine Similarity-Based Gradient Analysis
+- Noisy Client Detection
+- Global Model Aggregation
+- Interactive Monitoring Dashboard
 
 
 ## Project Structure
@@ -109,23 +109,23 @@ streamlit run hospital_app.py
 
 ## Applications
 
--Privacy-Preserving Healthcare AI
--Multi-Hospital Collaborative Learning
--Federated Medical Data Analysis
--Secure Clinical Decision Support
--Distributed Machine Learning Research
--Healthcare Data Privacy and Security
+- Privacy-Preserving Healthcare AI
+- Multi-Hospital Collaborative Learning
+- Federated Medical Data Analysis
+- Secure Clinical Decision Support
+- Distributed Machine Learning Research
+- Healthcare Data Privacy and Security
 
 ---
 
 ## Future Enhancements
 
--Differential Privacy integration
--Secure Aggregation and Homomorphic Encryption
--Blockchain-based client trust management
--Advanced AI-based anomaly detection
--Real-time hospital network deployment
--Cloud-based federated learning infrastructure
+- Differential Privacy integration
+- Secure Aggregation and Homomorphic Encryption
+- Blockchain-based client trust management
+- Advanced AI-based anomaly detection
+- Real-time hospital network deployment
+- Cloud-based federated learning infrastructure
 
 ---
 ## Contributors
